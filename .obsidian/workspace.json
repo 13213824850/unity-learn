@@ -39,35 +39,14 @@
             "id": "3fe6fffe9055a720",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "unity学习/资源/1. ab包.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "1. ab包"
-            }
-          },
-          {
-            "id": "9ddcfb0159ccfa02",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "未命名.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "未命名"
+              "title": "新标签页"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -188,13 +167,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名.canvas",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "未命名 的大纲"
+              "title": "大纲"
             }
           }
         ],
@@ -218,23 +196,24 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "077911df5e865774",
+  "active": "f77c0b0d557f96ce",
   "lastOpenFiles": [
-    "未命名.base",
     "未命名.canvas",
-    "未命名 1.canvas",
+    "unity学习/资源/4. 游戏内资源管理方式.md",
+    "unity学习/资源/3.AssetDatabase.md",
     "unity学习/资源/2. Addressable Assets System.md",
     "unity学习/资源/1. ab包.md",
-    "unity学习/资源/4. 游戏内资源管理方式.md",
     "unity学习/打包/打包.md",
-    "Untitled.md",
-    "unity学习/目录.base",
-    "欢迎.md",
-    "unity学习/资源/3.AssetDatabase.md",
     "unity学习/资源",
+    "unity学习/目录.base",
     "unity学习/打包",
+    "unity学习",
+    "README.md",
+    "未命名.base",
+    "未命名 1.canvas",
+    "Untitled.md",
+    "欢迎.md",
     "unity学习/未命名 1",
-    "未命名",
-    "unity学习"
+    "未命名"
   ]
 }
