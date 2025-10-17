@@ -1,0 +1,240 @@
+{
+  "main": {
+    "id": "4b190c7104aedf39",
+    "type": "split",
+    "children": [
+      {
+        "id": "86dc022ea1cbb6f9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7eda11239a50720a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "unity学习/1. ab包.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1. ab包"
+            }
+          },
+          {
+            "id": "4e9b23440d5b2c96",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "unity学习/3.AssetDatabase.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3.AssetDatabase"
+            }
+          },
+          {
+            "id": "3fe6fffe9055a720",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "unity学习/资源/1. ab包.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1. ab包"
+            }
+          },
+          {
+            "id": "9ddcfb0159ccfa02",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "未命名.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "未命名"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0b491ba7fd2c247a",
+    "type": "split",
+    "children": [
+      {
+        "id": "8597ae37ab4e9de9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f77c0b0d557f96ce",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "8400fa2d8d83243e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "12eac3de52aaf5db",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "432c5eb1e3cd3424",
+    "type": "split",
+    "children": [
+      {
+        "id": "e069acf0c6f7c8e2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6b5f43066d4ed711",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "unity学习/资源/2. Addressable Assets System.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "2. Addressable Assets System 的反向链接列表"
+            }
+          },
+          {
+            "id": "a10f7499e8d5602b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "unity学习/1. ab包.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "1. ab包 的出链列表"
+            }
+          },
+          {
+            "id": "a64134e947b51748",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "077911df5e865774",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "未命名.canvas",
+                "followCursor": true,
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "未命名 的大纲"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "github-sync:Sync with Remote": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:创建新数据库": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
+    }
+  },
+  "active": "077911df5e865774",
+  "lastOpenFiles": [
+    "未命名.base",
+    "未命名.canvas",
+    "未命名 1.canvas",
+    "unity学习/资源/2. Addressable Assets System.md",
+    "unity学习/资源/1. ab包.md",
+    "unity学习/资源/4. 游戏内资源管理方式.md",
+    "unity学习/打包/打包.md",
+    "Untitled.md",
+    "unity学习/目录.base",
+    "欢迎.md",
+    "unity学习/资源/3.AssetDatabase.md",
+    "unity学习/资源",
+    "unity学习/打包",
+    "unity学习/未命名 1",
+    "未命名",
+    "unity学习"
+  ]
+}
