@@ -39,10 +39,14 @@
             "id": "3fe6fffe9055a720",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "README"
             }
           }
         ],
@@ -167,12 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "README.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "README 的大纲"
             }
           }
         ],
@@ -196,7 +201,7 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "f77c0b0d557f96ce",
+  "active": "3fe6fffe9055a720",
   "lastOpenFiles": [
     "未命名.canvas",
     "unity学习/资源/4. 游戏内资源管理方式.md",
