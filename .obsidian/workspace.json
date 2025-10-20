@@ -179,7 +179,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,12 +198,14 @@
   },
   "active": "7eda11239a50720a",
   "lastOpenFiles": [
+    "unity学习/资源/5.热更.md",
+    "unity学习/打包/打包.md",
+    "unity学习/资源/4. 游戏内资源管理方式.md",
+    "unity学习/资源/Pasted image 20251020205156.png",
     "unity学习/资源/1. ab包.md",
     "unity学习/资源/2. Addressable Assets System.md",
     "unity学习/资源/3.AssetDatabase.md",
-    "unity学习/资源/4. 游戏内资源管理方式.md",
     "unity学习/目录.base",
-    "unity学习/打包/打包.md",
     "未命名.canvas",
     "README.md",
     "unity学习/资源",
