@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "unity学习/打包/打包.md",
+                "file": "unity学习/资源/5.热更.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "打包"
+              "title": "5.热更"
             }
           },
           {
@@ -165,13 +165,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "unity学习/打包/打包.md",
+                "file": "unity学习/资源/5.热更.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "打包 的大纲"
+              "title": "5.热更 的大纲"
             }
           }
         ],
@@ -198,8 +198,8 @@
   },
   "active": "7eda11239a50720a",
   "lastOpenFiles": [
-    "unity学习/资源/5.热更.md",
     "unity学习/打包/打包.md",
+    "unity学习/资源/5.热更.md",
     "unity学习/资源/4. 游戏内资源管理方式.md",
     "unity学习/资源/Pasted image 20251020205156.png",
     "unity学习/资源/1. ab包.md",
